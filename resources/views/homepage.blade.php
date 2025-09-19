@@ -13,19 +13,22 @@
     <div class="swiper" id="jungletuin-swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="https://picsum.photos/800/600?random=1" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://picsum.photos/800/600?random=2" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://picsum.photos/800/600?random=3" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://picsum.photos/800/600?random=4" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="https://picsum.photos/800/600?random=5" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                </div>
+                <div class="swiper-slide">
+                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
             </div>
 
@@ -46,7 +49,7 @@
       </p>
     </div>
     <div class="w-full max-w-6xl mx-auto md:px-0">
-    <div id="map" class="h-64 md:h-96 shadow-lg"></div>
+    <div id="map" class="h-64 md:h-96d shadow-lg"></div>
     </div>
 
     <script>

@@ -20,13 +20,13 @@
                 <div class="flex flex-col justify-center">
                     <p class="text-center text-lg max-w-lg p-10">🌿 2. Werk met lagen en hoogteverschillen<br>Een echte jungle is weelderig en vol. Creëer dat effect door in lagen te werken: hoge bomen of struiken achterin, middelgrote planten in het midden en bodembedekkers of varens vooraan. Dit zorgt voor diepte en een avontuurlijke uitstraling, alsof je steeds iets nieuws ontdekt.</p>
                 </div>
-                <img src="/images/jungletuin-afbeelding-2.jpg" class="mx-auto rounded-lg h-full object-cover">
+                <img src="/images/jungletuin-afbeelding-4.jpg" class="mx-auto rounded-lg h-full object-cover">
             </div>
         </div>
 
         <div class="flex justify-center mb-20">
             <div class="flex flex-row h-64 px-10">
-                <img src="/images/jungletuin-afbeelding-3.jpg" class="mx-auto rounded-lg h-full object-cover">
+                <img src="/images/jungletuin-afbeelding-1.jpg" class="mx-auto rounded-lg h-full object-cover">
                 <div class="flex flex-col justify-center">
                     <p class="text-center text-lg max-w-lg p-10">🌿 3. Voeg water en sfeer toe<br>Water is onmisbaar in een jungletuin. Een vijver, waterval of kleine fontein geeft niet alleen een tropische sfeer, maar trekt ook vogels en insecten aan. Combineer dit met sfeervolle verlichting, zoals spots tussen de planten of hangende lantaarns, voor een magische avondbeleving.</p>
                 </div>
@@ -38,7 +38,7 @@
                 <div class="flex flex-col justify-center">
                     <p class="text-center text-lg max-w-lg p-10">🌿 4. Maak het avontuurlijk<br>Een jungletuin is meer dan alleen planten; het is een belevenis. Leg kronkelende paadjes aan, verstop zitplekjes tussen het groen of hang een hangmat op. Gebruik natuurlijke materialen zoals hout of steen om het geheel af te maken. Zo wordt jouw tuin een plek waar je steeds opnieuw verrast wordt.</p>
                 </div>
-                <img src="/images/jungletuin-afbeelding-3.jpg" class="mx-auto rounded-lg h-full object-cover">
+                <img src="/images/jungletuin-afbeelding-4.jpg" class="mx-auto rounded-lg h-full object-cover">
             </div>
         </div>
 
