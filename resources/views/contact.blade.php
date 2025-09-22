@@ -12,7 +12,7 @@
             </div>
         </div>
     @endif
-    <div class="text-center p-18">
+    <div class="text-center p-4 sm:p-8">
         <p class="max-w-3xl mx-auto text-lg">"Heb je vragen of wil je meer weten over jungletuinen? Vul hieronder het contactformulier in en ik neem zo snel mogelijk contact met je op. Wil je extra inspiratie en een kijkje achter de schermen van mijn eigen jungletuin? Check dan ook mijn socials voor foto’s, updates en ideeën."</p>
     </div>
         <div class="flex justify-center gap-6 sm:gap-20 lg:gap-40 my-4">
@@ -27,7 +27,7 @@
             </a>
         </div>
 
-    <form method="POST" action="{{ route('contact.send') }}" class="max-w-xl mx-auto rounded-lg shadow p-6 mt-8 text-black" style="background-color: #759069;">
+    <form method="POST" action="{{ route('contact.send') }}" class="max-w-xl mx-4 sm:mx-auto rounded-lg shadow p-6 mt-8 text-black" style="background-color: #759069;">
             @csrf
             <div class="mb-4">
                 <label for="email" class="block font-bold mb-2">E-mail</label>

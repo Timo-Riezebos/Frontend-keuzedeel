@@ -15,16 +15,13 @@ new Swiper('.swiper', {
     clickable: true,
   },
   breakpoints: {
-      // tot 640px: 1 foto
       0: {
         slidesPerView: 1,
       },
-      // vanaf 640px: 2 foto's
       375: {
         slidesPerView: 2,
       },
-      // vanaf 1024px: 3 foto's
-      768: {
+      1024: {
         slidesPerView: 3,
       }
   }

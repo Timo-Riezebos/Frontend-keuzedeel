@@ -20,7 +20,7 @@
       <a href="/eigenjungletuin" class="py-2 ">eigen jungletuin?</NuxtLink></a>
       <a href="/contact" class="py-2 ">Contact</NuxtLink></a>
     </nav>
-    <div class="bg-gray-900 text-white">
+    <div class="bg-gray-900 text-white min-h-screen">
       @yield('content')
       <footer class="pt-8 py-4 text-center text-xs md:text-sm">
         <div class="flex flex-col items-center">
