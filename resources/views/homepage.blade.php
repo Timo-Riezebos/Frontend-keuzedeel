@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title', 'Jungletuin')
+@section('title', 'Jungletuinen')
 @section('content')
     <h1 class="flex justify-center p-6 md:p-10 text-3xl md:text-5xl font-bold">Jungletuinen</h1>
     <img src="/images/header.jpg" class="w-full h-48 md:h-96 object-cover rounded-none" />
