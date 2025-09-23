@@ -9,13 +9,14 @@
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
      @vite('resources/css/app.css')
      @vite(['resources/css/app.css','resources/js/app.js'])
-    <title>@yield('title')</title>
+  <title>@yield('title')</title>
+  <meta name="description" content="@yield('meta_description', 'Jungletuinen: inspiratie, tips en informatie over tropische tuinen in Nederland.')">
     <style>
         #map { height: 400px; }
     </style>
 </head>
 <body>
-    <nav class="flex justify-center gap-12 bg-green-700 text-black font-medium p-4 text-xs sm:text-xl">
+    <nav class="flex justify-center gap-12 bg-green-600 text-black font-medium p-4 text-xs sm:text-xl">
       <a href="/" class="py-2 ">Home</NuxtLink></a>
       <a href="/eigenjungletuin" class="py-2 ">eigen jungletuin?</NuxtLink></a>
       <a href="/contact" class="py-2 ">Contact</NuxtLink></a>

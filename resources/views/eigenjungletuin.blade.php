@@ -12,8 +12,9 @@
     <div class="flex justify-center mb-20">
         <div class="jungletuin-row flex flex-col md:flex-row md:h-96 px-6 md:px-10 max-w-6xl w-full">
             <div class="w-full md:w-1/2">
-                <img src="/images/jungletuin-afbeelding-1.jpg"
-                     class="rounded-lg w-full h-64 md:h-96 object-cover">
+             <img src="/images/jungletuin-afbeelding-1.webp"
+                 alt="Jungletuin tropische planten en sfeerbeeld"
+                 class="rounded-lg w-full h-64 md:h-96 object-cover">
             </div>
             <div class="flex flex-col justify-center w-full md:w-1/2">
                 <p class="text-center md:text-left text-lg p-6">
@@ -28,8 +29,9 @@
     <div class="flex justify-center mb-20">
         <div class="jungletuin-row flex flex-col md:flex-row md:h-96 px-6 md:px-10 max-w-6xl w-full">
             <div class="w-full md:w-1/2 md:order-2">
-                <img src="/images/jungletuin-afbeelding-4.jpg"
-                     class="rounded-lg w-full h-64 md:h-96 object-cover">
+             <img src="/images/jungletuin-afbeelding-4.webp"
+                 alt="Jungletuin hoogteverschillen en lagen"
+                 class="rounded-lg w-full h-64 md:h-96 object-cover">
             </div>
             <div class="flex flex-col justify-center w-full md:w-1/2 md:order-1">
                 <p class="text-center md:text-left text-lg p-6">
@@ -44,8 +46,9 @@
     <div class="flex justify-center mb-20">
         <div class="jungletuin-row flex flex-col md:flex-row md:h-96 px-6 md:px-10 max-w-6xl w-full">
             <div class="w-full md:w-1/2">
-                <img src="/images/jungletuin-afbeelding-1.jpg"
-                     class="rounded-lg w-full h-64 md:h-96 object-cover">
+             <img src="/images/jungletuin-afbeelding-1.webp"
+                 alt="Jungletuin water en verlichting sfeerbeeld"
+                 class="rounded-lg w-full h-64 md:h-96 object-cover">
             </div>
             <div class="flex flex-col justify-center w-full md:w-1/2">
                 <p class="text-center md:text-left text-lg p-6">
@@ -60,8 +63,9 @@
     <div class="flex justify-center mb-20">
         <div class="jungletuin-row flex flex-col md:flex-row md:h-96 px-6 md:px-10 max-w-6xl w-full">
             <div class="w-full md:w-1/2 md:order-2">
-                <img src="/images/jungletuin-afbeelding-4.jpg"
-                     class="rounded-lg w-full h-64 md:h-96 object-cover">
+             <img src="/images/jungletuin-afbeelding-4.webp"
+                 alt="Jungletuin avontuurlijke paadjes en zitplekjes"
+                 class="rounded-lg w-full h-64 md:h-96 object-cover">
             </div>
             <div class="flex flex-col justify-center w-full md:w-1/2 md:order-1">
                 <p class="text-center md:text-left text-lg p-6">

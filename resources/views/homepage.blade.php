@@ -1,8 +1,9 @@
 @extends('layout')
 @section('title', 'Jungletuinen')
+@section('meta_description', 'Jungletuinen: inspiratie, tips en informatie over tropische tuinen in Nederland. Ontdek de mooiste jungletuinen, sfeerbeelden en praktische adviezen voor jouw eigen groene paradijs.')
 @section('content')
     <h1 class="flex justify-center p-6 md:p-10 text-3xl md:text-5xl font-bold">Jungletuinen</h1>
-    <img src="/images/header.jpg" class="w-full h-48 md:h-96 object-cover rounded-none" />
+    <img src="/images/header.webp" alt="" class="w-full h-48 md:h-96 object-cover rounded-none" />
     <div class="text-center p-6 md:p-18">
     <p class="max-w-2xl mx-auto text-base md:text-lg">
         Een jungletuin is een groene oase vol tropische sfeer, grote bladeren en kleurrijke bloemen. 
@@ -13,22 +14,22 @@
     <div class="swiper" id="jungletuin-swiper">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-4.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-4.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-2.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-2.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/jungletuin-afbeelding-4.jpg" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
+                    <img src="images/jungletuin-afbeelding-4.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
             </div>
 
@@ -41,7 +42,7 @@
         </div>
     </div>
     <div class="w-full p-6 md:p-18 bg-green-500 mt-6 md:mt-18">
-    <p class="max-w-xl mx-auto text-base md:text-lg text-black"> "Benieuwd hoe een jungletuin er in het echt uitziet? <a href="/eigenjungletuin" class="underline text-blue-500">Klik hier</a> en ontdek hoe je je eigen groene paradijs vol tropische planten, sfeer en inspiratie."</p>
+    <p class="max-w-xl mx-auto text-base md:text-lg text-black"> "Benieuwd hoe een jungletuin er in het echt uitziet? <a href="/eigenjungletuin" class="underline text-blue-00">Klik hier</a> en ontdek hoe je je eigen groene paradijs vol tropische planten, sfeer en inspiratie."</p>
     </div>
     <div class="text-center p-6 md:p-18">
     <p class="max-w-2xl mx-auto text-base md:text-lg">
