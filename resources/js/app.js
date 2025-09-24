@@ -7,11 +7,15 @@ import { Navigation, Pagination } from 'swiper/modules';
 
 new Swiper('.swiper', {
   modules: [Navigation, Pagination],
-  slidesPerView: 3, // standaard: 3 slides
+  slidesPerView: 3,
   spaceBetween: 20,
   loop: true,
-  navigation: true,
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
   pagination: {
+    el: '.swiper-pagination',
     clickable: true,
   },
   breakpoints: {

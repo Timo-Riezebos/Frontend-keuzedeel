@@ -32,12 +32,12 @@
                     <img src="images/jungletuin-afbeelding-4.webp" alt="" class="rounded-xl shadow-lg w-full h-40 md:h-64 object-cover" />
                 </div>
             </div>
-
-            <!-- Navigatie pijlen -->
-            <div class="swiper-button-next text-yellow-300"></div>
-            <div class="swiper-button-prev text-yellow-700"></div>
-
-            <!-- Paginatie bolletjes -->
+            <div class="swiper-button-next flex items-center justify-center text-3xl">
+                <i class="fa-solid fa-chevron-right"></i>
+            </div>
+            <div class="swiper-button-prev flex items-center justify-center text-3xl">
+                <i class="fa-solid fa-chevron-left"></i>
+            </div>
             <div class="swiper-pagination"></div>
         </div>
     </div>
