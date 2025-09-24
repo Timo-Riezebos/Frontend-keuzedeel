@@ -1,5 +1,6 @@
 @extends('layout')
 @section('title', 'Eigen Jungletuin')
+@section('meta_description', 'Creëer jouw eigen jungletuin met tropische planten en sfeervolle elementen.')
 @section('content')
     <h1 class="flex justify-center p-10 text-5xl font-bold">Eigen Jungletuin</h1>
     <div class="text-center p-6">

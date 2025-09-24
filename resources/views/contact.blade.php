@@ -1,5 +1,6 @@
 @extends('layout')
 @section('title', 'Contact')
+@section('meta_description', 'Neem contact op voor vragen, advies en meer informatie over jungletuinen.')
 @section('content')
      <h1 class="flex justify-center p-10 text-5xl font-bold">Contact</h1>
 
